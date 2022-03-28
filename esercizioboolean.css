@@ -1,0 +1,90 @@
+.logo {
+    width: 240px;
+    margin: auto;
+    display: block;
+    
+}
+
+.logotext {
+    font-size: 35px;
+    color: rgb(31, 211, 31);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    display: block;
+    font-weight: bold;
+}
+
+.container {
+    width: 1000px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    padding: 100px 75px 100px 75px;
+    margin: auto;
+}
+
+
+nav {
+    background-color: rgb(31, 211, 31);
+    border: 10px solid rgb(31, 211, 31);
+    text-align: center;
+       
+}
+
+body {
+    background: url(background.jpg) no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+    
+}
+
+.main1 {
+    color: white;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+.strada-gino22 {
+    color: white;
+}
+
+.carica-gino {
+    border: 15px solid rgb(255, 195, 83);
+    margin-right: 600px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.main2 {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.strada-mike24 {
+    color: white;
+}
+
+.carica-mike {
+    border: 15px solid rgb(15, 206, 15);
+    margin-right: 200px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.main3 {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.strada-fede154 {
+    color: white;
+}
+
+.carica-fede {
+    border: 15px solid rgb(212, 63, 63);
+    margin-right: 800px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
